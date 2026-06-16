@@ -1,6 +1,6 @@
-# Self-Funding Agent Ops
+# AutoShawn
 
-This repository contains the operating system for a self-funding agent experiment.
+Self-Funding Agent Ops contains the operating system for a self-funding agent experiment.
 
 The current commercial route is a B2B lead research and personalized outreach preparation service. The agent sources public opportunities, scores leads, drafts outreach, and runs weekly reviews. The user approves externally visible actions, account creation, payments, and any workflow that requires legal identity or verification.
 
