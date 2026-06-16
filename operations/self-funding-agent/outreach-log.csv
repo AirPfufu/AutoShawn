@@ -1,0 +1,10 @@
+timestamp,company,channel,target,status,notes
+"2026-06-16T00:00:00+08:00","HubSnacks FlexPlan","HubSpot form","https://www.hubsnacks.com/contact","sent","Submitted personalized partner-overflow research inquiry; response redirected to discovery demo session"
+"2026-06-16T00:00:00+08:00","Instrumental Group","HubSpot form","https://www.instrumental.net/contact","failed","HubSpot submission returned 400 Bad Request; likely required fields differ from common firstname lastname email company message schema"
+"2026-06-16T00:00:00+08:00","CETDIGIT","HubSpot form","https://www.cetdigit.com/contact-us","failed","HubSpot submission returned 400 Bad Request; fallback to public email sales@cetdigit.com"
+"2026-06-16T00:00:00+08:00","CETDIGIT","email","sales@cetdigit.com","failed","Gmail SMTP rejected authentication; needs Gmail app password or browser security verification before sending"
+"2026-06-16T00:00:00+08:00","Instrumental Growth Consultation","HubSpot form","https://www.instrumental.net/growth-consultation","failed","HubSpot submission returned 400 Bad Request; likely required fields differ from common firstname lastname email company message schema"
+"2026-06-16T00:00:00+08:00","On The Fuze","HubSpot form","https://www.onthefuze.com/contact-us","blocked","Form rejected Gmail address and required mobilephone plus hubspot_plan_dropdown"
+"2026-06-16T00:00:00+08:00","Instrumental Group","HubSpot form","https://www.instrumental.net/contact","blocked","Form has reCAPTCHA enabled; API submissions are not accepted"
+"2026-06-16T00:00:00+08:00","CETDIGIT","HubSpot form","https://www.cetdigit.com/contact-us","blocked","Form has reCAPTCHA enabled; public email exists but Gmail SMTP needs app password or browser verification"
+"2026-06-16T00:00:00+08:00","digitalJ2","website/email","https://digitalj2.com/services/hubspot-revenue-operations-revops/","blocked","Website source exposes only search form; public Facebook result lists et@digitalj2.com but Gmail SMTP needs app password or browser verification"
